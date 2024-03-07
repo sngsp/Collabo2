@@ -10,6 +10,7 @@ print("불닭먹고싶당")
 print("되면 밥 좀 제발요 좀")
 print("될때가 되었는데요.")
 var greeting = "Hello, playground"
+<<<<<<< HEAD
 print("될때가 되었다.")
 print("되면 이거때문")
 print("될때가 되었다.")
@@ -29,4 +30,8 @@ for _ in 0...3 {
 }
 
 
+=======
+
+print("hey")
+>>>>>>> origin/seop
 
