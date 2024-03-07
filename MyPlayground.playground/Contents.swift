@@ -24,7 +24,7 @@ print("저녁 뭐먹지?")
 
 var greeting = 23
 
-for i in 0...3 {
+for _ in 0...3 {
     print("제발요")
 }
 
