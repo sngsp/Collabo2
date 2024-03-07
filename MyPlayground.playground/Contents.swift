@@ -6,8 +6,8 @@ var greeting = "Hello, playground"
 
 print("JJJJJuuuunnnn  sdfasfsfasf")
 
-
-print("되면 이거때문")
+print("제발 고쳐져라 1111111111")
+print("되면 이거때문임")
 
 print("저녁 뭐먹지?")
 
